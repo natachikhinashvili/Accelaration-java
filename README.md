@@ -1,5 +1,10 @@
 # Accelaration 2nd stage
 
+## commands for running the code
+1. git clone https://github.com/natachikhinashvili/Accelaration-java.git
+2. cd Accelaration-java
+3. java filename.java
+
 ## Tasks:
 
 - [x] 1. გვაქვს მთელი რიცხვების ჩამონათვალი სადაც  ერთის გარდა ყველა რიცხვი  მეორდება, იპოვეთ ის რიცხვი რომელიც არ მეორდება.int singleNumber(int[] nums)
